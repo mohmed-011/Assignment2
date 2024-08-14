@@ -1,0 +1,11 @@
+.logo {
+  font-size: 32px;
+  font-weight: 700;
+}
+.nav-link {
+  width: fit-content;
+}
+.navbar {
+  transition: all 0.5s;
+  padding-block: 15px;
+}
